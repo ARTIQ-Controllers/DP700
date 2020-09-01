@@ -13,7 +13,10 @@ setup(
     url="https://github.com/ARTIQ-Controllers/DP700",
     download_url="https://github.com/ARTIQ-Controllers/DP700",
     license="LGPLv3+",
-    install_requires=["sipyco", "pyserial"],
+    install_requires=[
+        "sipyco",
+        "pyserial",
+    ],
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
