@@ -10,8 +10,8 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     author="OregonIons",
-    url="https://github.com/ARTIQ-Controllers/DP700",
-    download_url="https://github.com/ARTIQ-Controllers/DP700",
+    url="https://github.com/OregonIons/DP700",
+    download_url="https://github.com/OregonIons/DP700",
     license="LGPLv3+",
     install_requires=[
         "sipyco",
